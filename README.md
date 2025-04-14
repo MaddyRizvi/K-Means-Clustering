@@ -105,10 +105,12 @@ jupyter notebook
 
 🔍 PCA Visualization of Clusters
 This plot shows how the clusters formed using K-Means appear in reduced 2D space using PCA.
+
 ![Image](https://github.com/user-attachments/assets/d1d9ae9c-a384-436a-b2f0-2997edded7db)
 
 🧠 Elbow Method - Finding the Optimal Number of Clusters
 This graph helps identify the optimal number of clusters by showing the inertia value for different values of K.
+
 ![Image](https://github.com/user-attachments/assets/a346507e-46c2-4447-8f9d-1628182a48de)
 
 
