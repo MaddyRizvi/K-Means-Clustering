@@ -85,3 +85,31 @@ The dataset used is based on health/heart-related patient information. It contai
 1. Clone the repo:
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
+
+## ⚙️ Step 2: Install Dependencies
+
+You can install the required Python packages using pip:
+
+pip install pandas numpy matplotlib seaborn scikit-learn
+
+
+## 🧪 Step 3: Run the Project
+
+Run the notebook to follow the K-Means Clustering workflow:
+ ```bash
+jupyter notebook
+```
+
+
+## 📸 Screenshots
+
+🔍 PCA Visualization of Clusters
+This plot shows how the clusters formed using K-Means appear in reduced 2D space using PCA.
+![Image](https://github.com/user-attachments/assets/d1d9ae9c-a384-436a-b2f0-2997edded7db)
+
+🧠 Elbow Method - Finding the Optimal Number of Clusters
+This graph helps identify the optimal number of clusters by showing the inertia value for different values of K.
+![Image](https://github.com/user-attachments/assets/a346507e-46c2-4447-8f9d-1628182a48de)
+
+
+
