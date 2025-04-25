@@ -26,7 +26,7 @@ The dataset used is based on health/heart-related patient information. It contai
 - Fasting blood sugar
 - Maximum heart rate achieved
 - Exercise-induced angina
-- and more...
+- and more..
 
 > Note: Actual column names were inferred and cleaned due to missing headers in the raw CSV.
 
